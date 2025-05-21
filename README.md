@@ -1,2 +1,2 @@
-# mtc-repo-infra
-terraform code for terraform certification
+# This prod terraform repository is for infra developers. 
+The infra was last modified by: Filip Katana
