@@ -1,0 +1,86 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="24.8.3">
+  <diagram name="Page-1" id="RXrmXrD-vrTJ8Lkj9za8">
+    <mxGraphModel dx="4429" dy="1097" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sGsYtJAiaq8hdn5miiEl-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;w-019-mlaasv2/pipelines/deployment/mls-ml/deployment-pipeline-template.j2&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="10" width="530" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sGsYtJAiaq8hdn5miiEl-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sGsYtJAiaq8hdn5miiEl-4" target="sGsYtJAiaq8hdn5miiEl-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sGsYtJAiaq8hdn5miiEl-4" value="&lt;span style=&quot;color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; font-weight: 700; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;gs-mls-ml-plint-cd-pipeline-config-v7&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="80" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sGsYtJAiaq8hdn5miiEl-5" value="&lt;span style=&quot;color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; font-weight: 700; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;gs-mls-ml-prod-cd-pipeline-config-v7&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="80" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sGsYtJAiaq8hdn5miiEl-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sGsYtJAiaq8hdn5miiEl-8" target="sGsYtJAiaq8hdn5miiEl-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-440" y="175" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sGsYtJAiaq8hdn5miiEl-8" value="&lt;span style=&quot;color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; font-weight: 700; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;config.yaml&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="160" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sGsYtJAiaq8hdn5miiEl-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.574;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sGsYtJAiaq8hdn5miiEl-5" target="sGsYtJAiaq8hdn5miiEl-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sGsYtJAiaq8hdn5miiEl-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sGsYtJAiaq8hdn5miiEl-12" target="sGsYtJAiaq8hdn5miiEl-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sGsYtJAiaq8hdn5miiEl-12" value="&lt;span style=&quot;color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; font-weight: 700; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;config.yaml&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="160" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sGsYtJAiaq8hdn5miiEl-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sGsYtJAiaq8hdn5miiEl-17" target="sGsYtJAiaq8hdn5miiEl-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-617" y="220" />
+              <mxPoint x="-440" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sGsYtJAiaq8hdn5miiEl-17" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;&lt;font face=&quot;-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Fira Sans, Droid Sans, Helvetica Neue, sans-serif&quot; color=&quot;#172b4d&quot;&gt;&lt;b&gt;gs-mls-ml-mlaasv2-plint/pipelines/deployment/mls-ml/template-params.yaml&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-920" y="250" width="420" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sGsYtJAiaq8hdn5miiEl-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sGsYtJAiaq8hdn5miiEl-19" target="sGsYtJAiaq8hdn5miiEl-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-220" y="220" />
+              <mxPoint x="-440" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sGsYtJAiaq8hdn5miiEl-19" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;&lt;font face=&quot;-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Fira Sans, Droid Sans, Helvetica Neue, sans-serif&quot; color=&quot;#172b4d&quot;&gt;&lt;b&gt;gs-mls-ml-mlaasv2-plntb/pipelines/deployment/mls-ml/template-params.yaml&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="250" width="420" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sGsYtJAiaq8hdn5miiEl-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sGsYtJAiaq8hdn5miiEl-23" target="sGsYtJAiaq8hdn5miiEl-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="940" y="220" />
+              <mxPoint x="705" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sGsYtJAiaq8hdn5miiEl-23" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;&lt;font face=&quot;-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Fira Sans, Droid Sans, Helvetica Neue, sans-serif&quot; color=&quot;#172b4d&quot;&gt;&lt;b&gt;gs-mls-ml-mlaasv2-prdb/pipelines/deployment/mls-ml/template-params.yaml&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="250" width="420" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sGsYtJAiaq8hdn5miiEl-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sGsYtJAiaq8hdn5miiEl-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="705" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="220" />
+              <mxPoint x="705" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sGsYtJAiaq8hdn5miiEl-24" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;&lt;font face=&quot;-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Fira Sans, Droid Sans, Helvetica Neue, sans-serif&quot; color=&quot;#172b4d&quot;&gt;&lt;b&gt;gs-mls-ml-mlaasv2-prod/pipelines/deployment/mls-ml/template-params.yaml&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="250" width="420" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
